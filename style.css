@@ -1,0 +1,917 @@
+body{
+    margin: 0;
+    margin-right: 1000px;
+    background-color: #fcf5eb;
+    overflow-x: hidden;
+    overflow:scroll;
+   
+}
+.headder{
+    background-color: #fcf5eb;
+    width: 100%;
+    height: 80px;
+    position: fixed;
+    margin-top: 0px;
+    opacity: 95%;
+    z-index: 1;
+
+}
+.headderimage{
+    height: 30.250px;
+    width: 130px;
+    margin-top:23px ;
+    margin-left: 40px;
+    float: left;
+}
+.headderh1{
+    font-family: Helvetica Neue, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    color: black;
+    margin-top: 30px; 
+    margin-left: 270px; 
+    font-weight: 100;
+    float:left 
+    
+}
+.down{
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    position: relative;
+    left: 73px;
+    bottom: 40px;
+}
+.headderh2{ 
+     font-family: Helvetica Neue, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    color: black;
+    margin-top: 30px; 
+    margin-left: 70px; 
+    font-weight: 100;
+    float:left 
+}
+.headder3{
+    font-family: Helvetica Neue, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    color: black;
+    margin-top: 30px; 
+    margin-left: 60px;
+    font-weight: 100; 
+    float:left 
+}
+.headder4{
+    font-family: Helvetica Neue, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    color: black;
+    margin-top: 30px; 
+    margin-left: 50px; 
+    font-weight: 100;
+    float:left 
+}
+.headder5{
+font-family: Helvetica Neue, Helvetica Neue, Helvetica, Arial, sans-serif;
+font-size: 16px;
+color: black;
+margin-top: 30px; 
+margin-left: 84px; 
+font-weight: 100;
+float:left 
+}
+.headderbutton{
+    background-color: #25d366;
+    width: 151px;
+    height: 52px;
+    margin-top: -44px;
+    margin-left: 472px;
+    border-radius: 30px;
+    float: left;
+    border: 1px solid;
+}
+
+.headderbuttonh{
+    font-family: Helvetica Neue, Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-top: 12px;
+    margin-left: 0px;
+    font-size: 20px;
+    font-weight: 100;
+}
+.section1img{
+    height: 738px;
+    width: 1200px;
+    margin-top:  100px;
+    margin-left: 30px ;
+    margin-right: 30px;
+    border-radius: 30px;
+}
+.img{
+    width: 100%;
+    height: 700px;
+}
+.sectiontyp{
+    color: white;
+    font-family: elvetica Neue, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 80px;
+    margin-top: -526px;
+    margin-left: 92px;
+    font-weight: 400;
+}
+.section2typ{
+    color: #fefefe;
+    font-family: elvetica Neue, Helvetica Neue, Helvetica, Arial, sans-serif;
+font-size: 18px;
+margin-top: -45px;
+margin-left: 92px;
+font-weight: 400px;
+}
+.sectionbutton{
+    background-color: #25d366;
+    width: 155px;
+    height: 58px;
+    position: relative;
+    top: 20px;
+    left: 82px;
+    border-radius: 30px;
+    border: 1px solid;
+
+}
+.sectionbuttonh{
+    font-size: 16px;
+    font-weight: 100;
+    font-family:elvetica Neue, Helvetica Neue, Helvetica, Arial, sans-serif ;
+    margin-top: 10px;
+    margin-left: 20;
+}
+.imageS{
+   height: 20px;
+    width: 10px;
+    margin-top: -499px;
+    margin-left: 700px;
+}
+.love{
+    width: 8px;
+    height: 170px;
+    padding-left:700px ;
+    position: relative;
+    top: 5px;
+}
+.sticker{
+    width: 10px;
+    height: 48px;
+    padding-left: 680px;
+    position: relative;
+    top: -150px;
+}
+.voicemessage{
+    width:10px;
+    height: 48px; 
+    position: relative;
+    padding-left: 735px;
+    background-color: transparent;
+    top:-20px;
+}
+.picture{
+    position:relative;
+    padding-left: 735px;
+    top: 13px;
+}
+.imogi{
+    position: relative;
+    padding-left:  735px; 
+    top: -12px;
+}
+.chat{
+    position: relative;
+    padding-left:  735px; 
+    top: -12px;
+}
+.divtyp{
+    width: 356px;
+    height: 20px;
+    margin-left: 907px;
+    margin-top: 150px;
+}
+
+.typ{
+    color: inherit;
+    font-weight: 400;
+    font-size: 12px;
+    font-family:  Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.nextpic{
+width: 100%;
+height:220px;
+margin-top: 20px;
+margin-left: 16px;
+
+
+}
+.pic{
+    width: 1203.43;
+    height: 220px;
+}
+.sugetion{
+    width: 263.33px;
+    height: 304px;
+    margin-top: 65px;
+}
+.innersugetion{
+    height: 304px;
+    width: 1128px;
+    margin-left: 65px;
+}
+.coughts{
+
+    font-weight: 500;
+    font-size: 50px;
+    font-family:Helvetica Neue, Helvetica, Arial, sans-serif; 
+    text-align: center;
+}
+.secondpic{
+    width: 1199.33px;
+    height: 256.66px;
+}
+.secondpicinner{
+    margin-left: 20px;
+    margin-top: 10px;
+    height: 256.66px;
+    width: 1199.33px;
+
+}
+.secondpicture{
+    height:256.66px ;
+    width: 1199.33px;
+}
+.thirdsection{
+    height: 802.07px;
+    width:1263.33px;
+
+}
+.innertherdsection{
+    height: 802.07px;
+    width: 1080px;
+    margin: auto;
+}
+.divf{
+    height:802.07px ;
+    color: #000000;
+    font-size: 60px;
+    font-weight: 400;
+    position: relative;
+    top: -165px;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-left: 30px;
+    margin-top: 30px;
+} 
+
+
+.write{
+    color: #000000;
+    font-size:  52px;;
+    font-weight: 200;
+    font-family:Helvetica Neue, Helvetica, Arial, sans-serif;  
+    margin-left:  30px; 
+    margin-top: 30px;
+    padding-top: 330px;
+  
+
+}
+.write1{
+
+    color: #000000;
+    font-size: 17px;
+    font-weight: 200;
+    position: relative;
+    top: -12px;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.picture3{
+   
+    height: 658.07px;
+    width: 540px;
+    position: relative;
+    margin-left: 510px;
+    top: -535px;
+
+
+}
+.picturetherd{
+    height: 654px;
+    width: 332px;
+}
+.decoration:hover{
+   text-decoration:underline;
+   text-decoration-color: #25d366;
+   text-decoration-thickness: 2px;
+}
+.text{
+    font-size: 17px;
+    color: #000000;
+    position: relative;
+    left: 27px;
+    cursor: pointer;
+}
+.section4{
+    height: 846.907px;
+    width: 1263.33px;
+    background-color: #1c1e21;
+}
+.section4picture{
+    height: 650px;
+    width: 528px;
+    margin-top: 103px;
+    margin-left: 103px;
+}
+.typ1{
+    font-weight: 500;
+    font-size: 55px;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: #fffdfd;
+    margin-top: -489px;
+    margin-left: 730px;
+} 
+.typ2{
+   
+    font-weight: 500;
+    font-size: 55px;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: #25d366;
+    margin-top: -43px;
+    margin-left: 730px;
+
+}
+.typ3{
+    color: #ffffff;
+    font-size: 17px;
+    font-weight: 200;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-top:  -30px ;
+    margin-left:730px ;
+}
+ .text1{
+     font-size: 17px;
+     color: #ffffff;
+     margin-left:730px ;
+ }
+ .section5{
+    height: 843.07px;
+    width: 100%;
+    margin-top: -37px;
+ }
+ .sectionf{
+    height: 120px;
+    width: 493.99px;
+    position: relative;
+    left: -1px;
+    top: 29px;
+ }
+ .section5typ1{
+    color: #000000;
+    font-weight: 500;
+    font-size: 55px; 
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+     position: relative;
+    margin-left: 90px;  
+    top: 280px;
+  }
+  .sections{
+    height: 75px;
+    width: 493.33px;
+    position: relative;
+    top: 8px;
+    left: -1px;
+  }
+   .section5typ2{
+    color: #000000;
+    font-size: 17px;
+    font-weight: 200;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    position: relative;
+    margin-left:90px ;
+    top:300px;
+ }
+.text2{
+    font-size: 17px;
+    color: #000000;
+    position: relative;
+    left: 90px;
+    top: 310px;
+}
+.section5pic{
+    height: 647px;
+    width: 326px;
+    margin-left: 740px;
+    margin-top: -160px;
+
+}
+.section5pic1{
+        height: 479.22px;
+        width: 400px;
+        margin-left: 673px;
+        margin-top: -559px;
+}
+.section6{
+    height: 843.07px;
+    width: 1263px;
+    
+}
+.sectionpic1{
+    height:651.07px ;
+    width: 540px;
+    position: relative;
+    left: 195px;
+    top: 0px;
+
+}
+.sectionpic2{
+    height: 280.87px;
+    width:326px ;
+    position: relative;
+    left: 186px;
+    top: -486px;
+
+}.picture6{
+    height:280.87px ;
+    width: 326px;
+
+}
+.section6typ{
+    height: 651.07px;
+    width:449.99px ;
+    position: relative;
+    top: -839px;
+    left: 750px;
+    
+}
+.section6f{
+    height: 120px;
+    width: 449px; 
+    position: relative;
+    top:20px;
+    
+
+}
+.sectiona{ 
+    font-weight: 500;
+    font-size: 55px;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: #0c0101;
+
+}
+.section6s{
+    height: 109px;
+    width: 456.99px;
+    position: relative;
+    top: 31px;
+    
+
+}
+.sectionb{
+    font-family:Helvetica Neue, Helvetica, Arial, sans-serif; 
+    font-weight: 200;
+    font-size: 18px;
+    color: #000000;
+    position: relative;
+    left: 3px;
+    top: 9px;
+}
+.text3{
+    font-size: 17px;
+    color: #070707;
+    position: relative;
+    left: 3px;
+    top: 5px;
+    
+}
+.section7{
+    height: 740.07px;
+    width: 1167.33px;
+
+}
+.section7typa{
+    height: 615.07px;
+    width: 449.99px;
+    position: relative;
+    top: 20px;
+margin-left:  93px;
+    
+}
+.sectiontyp1{
+    width: 449.99px;
+    height: 151px;
+    position: relative;
+    top: 125px;
+
+}
+.section7typed{
+    font-family:Helvetica Neue, Helvetica, Arial, sans-serif; 
+    font-weight: 200;
+    font-size: 62px;
+    color: #000000;
+    position: relative;
+    left: 3px;
+    top: 9px;
+
+}
+.section7typb{
+    height:134px ;
+    width: 449.99px;
+    position: relative;
+    top: 120px;
+
+}
+.sectiontyped1{
+    font-family:Helvetica Neue, Helvetica, Arial, sans-serif; 
+    font-weight: 200;
+    font-size: 18px;
+    color: #000000;
+    position: relative;
+    left: 3px;
+   
+}
+.text4{
+    font-size: 17px;
+    color: #070707;
+    position: relative;
+    left: 96px;
+    top: -230px;
+}
+.section7picture{
+    height: 651.07px;
+    width: 540px;
+    position: relative;
+    top: -669px;
+    left: 650px;
+
+}
+.section7picture1{
+    position: relative;
+    top: -17px;
+
+}
+.section8main{
+    width: 1263.32px;
+    height: 663.06px;
+    background-color: #1c1e21;
+}
+.section8a{
+    height:645.07px;
+    width: 1263.33px;
+    background-color: #E6FFDA;
+    border-bottom-left-radius: 55px;
+    border-bottom-right-radius: 55px;
+}
+.saection8atyp1{
+    height: 116px;
+    width: 460px;
+    position: relative;
+    top: 97px;
+    left: 80px;
+}
+.seaction8atyped{
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 200;
+    font-size: 60px;
+    color: #000000;
+    position: relative;
+    left: 3px;
+    top: 9px;
+}
+.section8b{
+    height: 409.07px;
+    width: 504px;
+    position: relative;
+    top: -14px;
+    left: 600px;
+    background-color: #fffdfd;
+    border-radius: 20px;
+}
+#whatsapplogo{
+    color: #000000;
+    width: 23px;
+    height: 23px;
+    position: relative;
+    top: 54px;
+    left: 54px;
+    font-size: 30px;
+
+}
+.section8write1{
+    height: 75px;
+    width: 400px;
+   
+    position: relative;
+    top: 48px;
+    left: 47px;
+}
+.writedit1{
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 200;
+    font-size: 30px;
+    color: #000000;
+    position: relative;
+    left: 3px;
+    top: 9px;
+}
+.writedit2{
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 200;
+    font-size: 16px;
+    color: #000000;
+    position: relative;
+    left: 3px;
+    top: 9px;
+}
+.sectionbutton8{
+    background-color: #fefffe;
+    width: 160px;
+    height: 55px;
+    margin-top: 158px;
+    margin-left: 45px;
+    border-radius: 30px;
+    border-color: #000000;
+    border: 1px solid;
+}
+.section9{
+
+    width:1263.33px;
+    height: 380.07px;
+    background-color: #1c1e21;
+    position: relative;
+    top: 138px;
+}
+.sectionpicture1{
+    width: 262.49px;
+    height: 196.07px;
+    position: relative;
+    top: 10px;
+    left: 30px;
+}
+ .picture1 {
+    position: relative;
+    top: 65px;
+    left: 85px;
+}
+.section9button{
+    background-color: #25d366;
+    border-radius: 35px;
+    height: 62px;
+    width: 167px;
+    position: relative;
+    top: 204px;
+    left: 44px;
+}
+.buttontype{
+    font-size: 20px;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 100;
+    position: relative;
+    top: 3px;
+    left: -8px;
+}
+.sec9f{
+    display: flex;
+    gap: 153px;
+    width: 807.88px;
+    height: 35.68px;
+    position: relative;
+    top: -137px;
+    left: 332px;
+}
+
+#sec9font{
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #ffffff;
+    font-weight: 200;
+}
+.sec9f1{ 
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    width:196.88px;
+    height: 190.08px;
+    background-color: transparent;
+    position: relative;
+    top: -137px;
+    left: 332px;
+
+}
+#sec9f2{
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 19px;
+    color: #ffffff;
+    font-weight: 200;
+    position: relative;
+    top: -137px;
+
+}
+.sec9s{
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    width: 196.88px;
+    height: 190.08px;
+    background-color: transparent;
+    position: relative;
+    top: -327px;
+    left: 560px;
+}
+
+
+#sec9s1{
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 19px;
+    color: #ffffff;
+    font-weight: 200;
+   
+
+}
+.sec9t{
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    width: 196.88px;
+    height: 190.08px;
+    background-color: transparent;
+    position: relative;
+    top: -517px;
+    left: 780px;
+}
+#sec9t1{ 
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 19px;
+    color: #ffffff;
+    font-weight: 200;
+}
+.sec9fr{ 
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    width: 196.88px;
+    height: 190.08px;
+    background-color: transparent;
+    position: relative;
+    top: -707px;
+    left: 1037px;
+
+}
+#sec9fr1{
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 19px;
+    color: #ffffff;
+    font-weight: 200;
+
+}
+.sample{
+    height: 250px;
+    width: 100%;
+    overflow-y: hidden;
+    background-color: #1c1e21;
+    position: relative;
+    top: 75px;
+}
+.sample1{
+    height: 140px;
+    width: 1050px;
+    position: relative;
+    top: 46px;
+    left: 100px;
+}
+.sampletyp1{ 
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    color: #ffffff;
+    font-weight: 200;
+    position: relative;
+    top: 60px;
+    left: 2px;
+
+}
+.sampletyp2{
+    height: 28.36px;
+    width: 157.4px;
+    position: relative;
+    top: 35px;
+    left: 182px;
+}
+
+.sampletyped{
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    color: #ffffff;
+    font-weight: 200;
+}
+.twiter{
+    background-color: #1c1e21;
+    height: 48px;
+    width: 48px;
+    border: #fefffe 1px solid;
+    border-radius: 30px;
+    position: relative;
+    top: 17px;
+    left: 465px;
+
+}
+.youtube{
+    background-color: #1c1e21;
+    height: 48px;
+    width: 48px;
+    border: #fefffe 1px solid;
+    border-radius: 30px;
+    position: relative;
+    top: -33px;
+    left: 547px;
+}
+.insta{
+    background-color: #1c1e21;
+    height: 48px;
+    width: 48px;
+    border: #fefffe 1px solid;
+    border-radius: 30px;
+    position: relative;
+    top: -82px;
+    left: 624px;
+
+}
+.facebook{ 
+    background-color: #1c1e21;
+    height: 48px;
+    width: 48px;
+    border: #fefffe 1px solid;
+    border-radius: 30px;
+    position: relative;
+    top: -132px;
+    left: 700px;
+
+}
+.samplebutton{
+    height: 58px;
+    width: 208px;
+    background-color:#1c1e21;
+    border: #fefffe 3px solid;
+    position: relative;
+    top: -183px;
+    left: 939px;
+    border-radius: 26px;
+
+}
+.english{
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    color: #ffffff;
+    font-weight: 100;
+    position: relative;
+    top: -7px;
+    left: -36px;
+}
+#twiterid{
+    color: white;
+    font-size: 17px;
+    position: relative;
+    top: 17px;
+    left: 16px;
+}
+#youtubeid{ 
+    color: white;
+    font-size: 17px;
+    position: relative;
+    top: 16px;
+    left: 15px;
+    
+}
+#instaid{
+    color: white;
+    font-size: 17px;
+    position: relative;
+    top: 16px;
+    left: 15px;
+
+}
+#facebookid{
+    color: white;
+    font-size: 19px;
+    position: relative;
+    top: 16px;
+    left: 15px;
+    background-color: #1c1e21;
+}
+.section2typdiv{
+    width: 443px;
+    height: 100px;
+    position: relative;
+    top: 10px;
+    left: -2px;
+
+}
+
+
+
+
+
+
+
